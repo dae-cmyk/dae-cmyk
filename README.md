@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Daehyung
 - ❤️ I know how to program Python, C++ and Unity(C#)!
 - 👀 I’m interested in learning new languages and program what i learned
-- 🌱 I’m currently learning Go and Flutter
+- 🌱 I’m currently learning Go, Javascript and Flutter
 - 📫 How to reach me: bigmart000918@gmail.com
 
 <!---
