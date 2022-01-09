@@ -4,3 +4,4 @@
 
 ### You don't explain your <q>***passion for coding***</q> by word.<br> But you prove it by your <q>***time spent***</q>.
 [Prototype Portfolio Website](https://daehyung.dev/)
+[Prototype Blog](https://notes.daehyung.dev/)
