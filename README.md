@@ -4,6 +4,6 @@
 
 ### You don't explain your <q>***passion for coding***</q> by word.<br> But you prove it by your <q>***time spent***</q>.
 [Prototype Portfolio Website](https://daehyung.dev/)<br>
-[Prototype Blog](https://notes.daehyung.dev/)
-[Prototype Photography Blog](https://photography.daehyung.dev/)
-[Prototype Design Blog](https://design.daehyung.dev/)
+[Prototype Blog](https://notes.daehyung.dev/)<br>
+[Prototype Photography Blog](https://photography.daehyung.dev/)<br>
+[Prototype Design Blog](https://design.daehyung.dev/)<br>
